@@ -5,4 +5,8 @@ This repository contains source code for the tasks assigned to me during my inte
 
 A calculator app having basic functions like add, subtract, divide, multiply.
 
+## Task 2 : Quiz App
+
+A simple quiz app.
+
 
